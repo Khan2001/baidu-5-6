@@ -1,0 +1,30 @@
+h1{
+	color: white;
+	text-align: left;
+	padding: 20px;
+	margin:0;
+}
+h2{
+	background-color: rgb(214,214,214);
+	padding-top: 10px;
+	text-align: center;
+	margin:0;
+	border-width: 2px;
+	width: 150px;
+	height: 120px;
+	float: left;
+	clear: both;
+	border-top:1px solid white;
+}
+.main{
+	float: left;
+	background-color: white;
+	width:1350px;
+	height:120px;
+	border-top:1px solid grey;
+}
+#resume{
+	background-color: rgb(133,133,133);
+	width: 1500px;
+	height: 100px;
+}
